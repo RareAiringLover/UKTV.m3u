@@ -59,22 +59,26 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
 #EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CHANNEL 4
 http://mags.vip:2086/live/miriam/miriam123/66961.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CHANNEL 5
 http://mags.vip:2086/live/miriam/miriam123/66962.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV +1
-http://mags.vip:2086/live/miriam/miriam123/66992.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 2 HD VIP UK
-http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/15729?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 1 HD
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58981.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 3 HD
-http://starshare.live:8080/live/0987654321/1234567890/31.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 4 HD
-http://starshare.live:8080/live/0987654321/1234567890/32.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2
+http://starshare.live:8080/live/0987654321/1234567890/16.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
+http://mags.vip:2086/live/miriam/miriam123/72596.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4
+http://mags.vip:2086/live/miriam/miriam123/67004.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV+1
+http://starshare.live:8080/live/0987654321/1234567890/5018.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2+1
+http://starshare.live:8080/live/0987654321/1234567890/5019.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3+1
+http://starshare.live:8080/live/0987654321/1234567890/5020.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4+1
+http://starshare.live:8080/live/0987654321/1234567890/5021.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Be HD VIP UK
 http://tv.iptvpl.itv.world:8080/jlsddy44ji/hjgkuyh87686yh/15732?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4 UK
@@ -157,9 +161,9 @@ http://raostvip.com:8080/semi16/1609.sem/108116?checkedby:hlscat.com
 http://mags.vip:2086/live/miriam/miriam123/66975.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CITV FHD
 http://plustlc.com:8080/live/huseyin61/24.10.2020/129464.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
+#EXTINF:-1,UK: POP
 http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/203?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP MAX
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/202?checkedby:hlscat.com
+#EXTINF:-1,UK: POP Max (5)
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12953?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TINY POP
 http://mags.vip:2086/live/miriam/miriam123/100022.ts?checkedby:hlscat.com
