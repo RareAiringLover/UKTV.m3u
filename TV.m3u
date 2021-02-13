@@ -71,99 +71,77 @@ http://starshare.live:8080/live/0987654321/1234567890/16.ts?checkedby:hlscat.com
 http://mags.vip:2086/live/miriam/miriam123/72596.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4
 http://mags.vip:2086/live/miriam/miriam123/67004.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV+1
-http://starshare.live:8080/live/0987654321/1234567890/5018.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2+1
-http://starshare.live:8080/live/0987654321/1234567890/5019.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3+1
-http://starshare.live:8080/live/0987654321/1234567890/5020.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4+1
-http://starshare.live:8080/live/0987654321/1234567890/5021.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV BE
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32440?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4
-http://mags.vip:2086/live/miriam/miriam123/66972.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Be
+http://starshare.live:8080/live/0987654321/1234567890/280.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32446?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MORE4
 http://mags.vip:2086/live/miriam/miriam123/98696.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",4 SEVEN HD
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59009.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 USA +1
-http://raostvip.com:8080/semi16/1609.sem/108048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 USA
+http://mags.vip:2086/live/miriam/miriam123/66936.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 STAR
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32499?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",PARAMOUNT
-http://raostvip.com:8080/semi16/1609.sem/108431?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 Select HD
-http://raostvip.com:8080/semi16/1609.sem/108044?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS DRAMA
-http://mags.vip:2086/live/miriam/miriam123/100030.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS REALITY
-http://starshare.live:8080/live/0987654321/1234567890/1063.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Justice
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32516?checkedby:hlscat.com
+http://mags.vip:2086/live/miriam/miriam123/66940.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 Select UK
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/25079?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Drama HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129445.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Reality
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32514?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Justice HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129446.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HORROR
 http://mags.vip:2086/live/miriam/miriam123/72577.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 STAR +1
-http://raostvip.com:8080/semi16/1609.sem/108046?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies Action
-http://starshare.live:8080/live/0987654321/1234567890/5033.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies +1
-http://starshare.live:8080/live/0987654321/1234567890/5035.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MOVIES
+http://starshare.live:8080/live/0987654321/1234567890/792.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Pick
 http://mags.vip:2086/live/miriam/miriam123/98693.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Challenge
 http://mags.vip:2086/live/miriam/miriam123/98705.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ARTS HD
-http://starshare.live:8080/live/0987654321/1234567890/1061.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
-http://mags.vip:2086/live/miriam/miriam123/66977.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK +1
-http://raostvip.com:8080/semi16/1609.sem/108287?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ARTS
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/62?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Food Network HD UK
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/14587?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DMAX
 http://mags.vip:2086/live/miriam/miriam123/66967.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",PBS America
-http://raostvip.com:8080/semi16/1609.sem/108433?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DMAX +1
-http://mags.vip:2086/live/miriam/miriam123/66968.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DAVE
-http://mags.vip:2086/live/miriam/miriam123/66969.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32509?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Yesterday HD
-http://raostvip.com:8080/semi16/1609.sem/108686?checkedby:hlscat.com
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129665.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DAVE HD
+http://starshare.live:8080/live/0987654321/1234567890/1062.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DRAMA
+http://mags.vip:2086/live/miriam/miriam123/98700.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",YESTERDAY
+http://mags.vip:2086/live/miriam/miriam123/100021.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",REALLY
 http://mags.vip:2086/live/miriam/miriam123/100024.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Blaze HD
-http://raostvip.com:8080/semi16/1609.sem/108115?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BLAZE
+http://mags.vip:2086/live/miriam/miriam123/66951.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QUEST
 http://mags.vip:2086/live/miriam/miriam123/67029.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QUEST +1
-http://plustlc.com:8080/live/muratacar/10.05.2019/129673.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QUEST RED
 http://mags.vip:2086/live/miriam/miriam123/100042.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY NEWS
 http://mags.vip:2086/live/miriam/miriam123/98692.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Al Jazeera English HD
-http://raostvip.com:8080/semi16/1609.sem/108061?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FRANCE 24 NEWS
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/89913?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RUSSIA TODAY NEWS
-http://raostvip.com:8080/semi16/1609.sem/108473?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN HD
-http://plustlc.com:8080/live/muratacar/10.05.2019/129471.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC NEWS
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/17530?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",AL JAZEERA ENG
+http://mags.vip:2086/live/miriam/miriam123/66946.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",France 24 English
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129534.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN NEWS
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/2780?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BLOOMBERG HD
-http://raostvip.com:8080/semi16/1609.sem/108116?checkedby:hlscat.com
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129410.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC Europe
+http://plustlc.com:8080/live/huseyin61/24.10.2020/129468.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FILM4
 http://mags.vip:2086/live/miriam/miriam123/66975.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CITV FHD
 http://plustlc.com:8080/live/huseyin61/24.10.2020/129464.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
-http://mags.vip:2086/live/miriam/miriam123/100043.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP MAX
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/202?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TINY POP
+#EXTINF:-1,UK: POP (2)
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/203?checkedby:hlscat.com
+#EXTINF:-1,UK: POP Max (5)
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/12953?checkedby:hlscat.com
+#EXTINF:-1,UK: Tiny Pop
 http://mags.vip:2086/live/miriam/miriam123/100022.ts?checkedby:hlscat.com
 #EXTINF:-1,Nicktoons
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32587
